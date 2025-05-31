@@ -1,1 +1,1 @@
-# file_version_best_practices
+# A brief guide on File Management and Version Control: Professional Best Practices
